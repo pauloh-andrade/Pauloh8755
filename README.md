@@ -3,11 +3,7 @@
 
 ### Hi! I'm Paulo Henrique 👋
 
-<h4 align="center">
- 
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://giffiles.alphacoders.com/104/10474.gif)
 
-<hr>
 
 <div align="center">
   <a href="https://github.com/Pauloh8755">
@@ -39,3 +35,9 @@
   <img align="center" alt="Rafa-CSS" height="60" width="70" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" />
   <img align="center" alt="Rafa-CSS" height="40" width="50" src="https://icongr.am/devicon/gitlab-original.svg?size=128&color=currentColor" />
 </div>
+ 
+ <h4 align="center">
+ 
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://giffiles.alphacoders.com/104/10474.gif)
+
+<hr>
