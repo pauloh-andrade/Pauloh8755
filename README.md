@@ -1,10 +1,22 @@
+
+
+
 ### Hi! I'm Paulo Henrique 👋
+
+<h4 align="center">
+ 
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://giffiles.alphacoders.com/104/10474.gif)
+
+<hr>
 
 <div align="center">
   <a href="https://github.com/Pauloh8755">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pauloh8755&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pauloh8755&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+  
+  
+  
   
   <div style="display: inline_block"><br>
   <img  align="center" alt="Rafa-Csharp" height="100" width="110" src="https://icongr.am/devicon/nodejs-plain-wordmark.svg?size=128&color=26d94a" />
