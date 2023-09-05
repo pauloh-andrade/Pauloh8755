@@ -1,9 +1,6 @@
 
-
-
-## Olá, eu sou o Paulo! 🇧🇷👋
   
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block" align="center"><br>
   <img  align="center" alt="Rafa-Csharp" height="100" width="110" src="https://icongr.am/devicon/nodejs-plain-wordmark.svg?size=128&color=26d94a" />
   <img align="center" alt="Rafa-Csharp" height="50" width="40"src="https://icongr.am/devicon/express-original.svg?size=128&color=ffffff">
   <img align="center" alt="Rafa-CSS" height="40" width="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_prisma_icon_130444.png" />
